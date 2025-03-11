@@ -13,7 +13,5 @@ Jar 安装： File -> Settings -> Plugins -> Install plugin from disk.. 选中 m
 
 亲！好用 五分好评 哦！！
 
-# 扫码加入微信交流群, 备注 mybatisX
 
-<img src="https://images.gitee.com/uploads/images/2021/1129/224455_6f75c7a9_12260.png" width="50%" height="50%">
 
